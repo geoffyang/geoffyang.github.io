@@ -2337,6 +2337,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 	-ms-flex-shrink: 0;
 	flex-shrink: 0;
 	padding: 3em;
+	margin-bottom: 19px;
 }
 
 #header>header .avatar {
@@ -2389,7 +2390,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 }
 
 #header>nav ul li {
-	border-top: solid 2px #5ccfb1;
+	border-top: solid 2px #151736;
 	display: block;
 	padding: 0;
 }
