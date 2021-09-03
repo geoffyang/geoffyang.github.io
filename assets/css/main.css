@@ -2381,6 +2381,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 	-webkit-flex-grow: 1;
 	-ms-flex-grow: 1;
 	flex-grow: 1;
+	margin-top: 3px;
 }
 
 #header>nav ul {
@@ -2513,6 +2514,21 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 	#wrapper {
 		padding-right: 20em;
 	}
+}
+
+i {
+	font-size: 70px;
+	margin-right: 40px;
+}
+
+svg {
+	width: 70px;
+	margin-right: 40px;
+}
+
+.technologies-div {
+	display: flex;
+	flex-flow: row wrap;
 }
 
 /* Medium */
