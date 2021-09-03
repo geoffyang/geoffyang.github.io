@@ -2087,6 +2087,21 @@ ul.icons li .icon:before {
 	font-size: 1.25em;
 }
 
+i {
+	font-size: 70px;
+	margin-right: 40px;
+}
+
+svg {
+	width: 70px;
+	margin-right: 40px;
+}
+
+.technologies-div {
+	display: flex;
+	flex-flow: row wrap;
+}
+
 /* Table */
 
 .table-wrapper {
@@ -2381,7 +2396,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 	-webkit-flex-grow: 1;
 	-ms-flex-grow: 1;
 	flex-grow: 1;
-	margin-top: 3px;
+	margin-top: 24px;
 }
 
 #header>nav ul {
@@ -2514,21 +2529,6 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 	#wrapper {
 		padding-right: 20em;
 	}
-}
-
-i {
-	font-size: 70px;
-	margin-right: 40px;
-}
-
-svg {
-	width: 70px;
-	margin-right: 40px;
-}
-
-.technologies-div {
-	display: flex;
-	flex-flow: row wrap;
 }
 
 /* Medium */
